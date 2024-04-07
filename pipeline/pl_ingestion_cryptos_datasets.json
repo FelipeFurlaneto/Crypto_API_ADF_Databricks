@@ -1,0 +1,142 @@
+{
+	"name": "pl_ingestion_cryptos_datasets",
+	"properties": {
+		"activities": [
+			{
+				"name": "Sets Array of Datasets",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "vFilesArray",
+					"value": [
+						"symbols?ApiKey=8D188D35-6876-4CF8-916C-384B8E586186",
+						"trades/latest?ApiKey=8D188D35-6876-4CF8-916C-384B8E586186",
+						"assets?ApiKey=8D188D35-6876-4CF8-916C-384B8E586186",
+						"exchanges?ApiKey=8D188D35-6876-4CF8-916C-384B8E586186"
+					]
+				}
+			},
+			{
+				"name": "4 each item of array",
+				"type": "ForEach",
+				"dependsOn": [
+					{
+						"activity": "Sets Array of Datasets",
+						"dependencyConditions": [
+							"Succeeded"
+						]
+					}
+				],
+				"userProperties": [],
+				"typeProperties": {
+					"items": {
+						"value": "@variables('vFilesArray')",
+						"type": "Expression"
+					},
+					"isSequential": true,
+					"activities": [
+						{
+							"name": "sets item_file",
+							"type": "SetVariable",
+							"dependsOn": [],
+							"policy": {
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"variableName": "vFile",
+								"value": {
+									"value": "@item()",
+									"type": "Expression"
+								}
+							}
+						},
+						{
+							"name": "inbound ingestion",
+							"type": "Copy",
+							"dependsOn": [
+								{
+									"activity": "sets item_file",
+									"dependencyConditions": [
+										"Succeeded"
+									]
+								}
+							],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"source": {
+									"type": "JsonSource",
+									"storeSettings": {
+										"type": "HttpReadSettings",
+										"requestMethod": "GET"
+									},
+									"formatSettings": {
+										"type": "JsonReadSettings"
+									}
+								},
+								"sink": {
+									"type": "JsonSink",
+									"storeSettings": {
+										"type": "AzureBlobFSWriteSettings"
+									},
+									"formatSettings": {
+										"type": "JsonWriteSettings"
+									}
+								},
+								"enableStaging": false
+							},
+							"inputs": [
+								{
+									"referenceName": "source_json",
+									"type": "DatasetReference",
+									"parameters": {
+										"pFile": {
+											"value": "@variables('vFile')",
+											"type": "Expression"
+										}
+									}
+								}
+							],
+							"outputs": [
+								{
+									"referenceName": "sink_json",
+									"type": "DatasetReference",
+									"parameters": {
+										"pFile": {
+											"value": "@replace(replace(variables('vFile'),'?ApiKey=8D188D35-6876-4CF8-916C-384B8E586186',''),'/','')",
+											"type": "Expression"
+										}
+									}
+								}
+							]
+						}
+					]
+				}
+			}
+		],
+		"variables": {
+			"vFilesArray": {
+				"type": "Array"
+			},
+			"vFile": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2024-04-07T00:59:04Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}

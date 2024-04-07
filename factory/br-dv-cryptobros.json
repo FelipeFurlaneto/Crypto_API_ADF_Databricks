@@ -1,0 +1,9 @@
+{
+	"name": "br-dv-cryptobros",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbd03403-2d3d-40e3-afd9-03bfd2ebf9b4",
+		"tenantId": "11dbbfe2-89b8-4549-be10-cec364e59551"
+	}
+}
