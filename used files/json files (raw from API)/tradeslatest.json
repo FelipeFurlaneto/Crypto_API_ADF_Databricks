@@ -1,0 +1,902 @@
+[
+  {
+    "symbol_id": "BINANCE_SPOT_PHA_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1690000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3163689Z",
+    "uuid": "fbf798e3-3b04-40a3-b6b5-c360ff6f966c",
+    "price": 0.26010000,
+    "size": 34.00000000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_PHA_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1690000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3163689Z",
+    "uuid": "fbf798e3-3b04-40a3-b6b5-c360ff6f966c",
+    "price": 0.26010000,
+    "size": 34.00000000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCEFTS_PERP_DOGE_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0550000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3160557Z",
+    "uuid": "169f6687-e8a1-4d6c-803a-27736410c9dd",
+    "price": 0.192380,
+    "size": 1976,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINANCEFTS_PERP_DOGE_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0550000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3160557Z",
+    "uuid": "169f6687-e8a1-4d6c-803a-27736410c9dd",
+    "price": 0.192380,
+    "size": 1976,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "OKEX_IDX_CHZ_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1900000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3117441Z",
+    "uuid": "a5a2bc11-bc9a-4593-bd6e-ffcdfca1ed23",
+    "price": 0.14992,
+    "size": 0,
+    "taker_side": "SELL_ESTIMATED"
+  },
+  {
+    "symbol_id": "OKEX_IDX_CHZ_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1900000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3117441Z",
+    "uuid": "a5a2bc11-bc9a-4593-bd6e-ffcdfca1ed23",
+    "price": 0.14992,
+    "size": 0,
+    "taker_side": "SELL_ESTIMATED"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_PYTH_USDT",
+    "time_exchange": "2024-04-07T00:59:55.3330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3090303Z",
+    "uuid": "6b6caa10-12ba-4126-a86e-813a35456174",
+    "price": 0.8425,
+    "size": 10,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_PYTH_USDT",
+    "time_exchange": "2024-04-07T00:59:55.3330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3090303Z",
+    "uuid": "6b6caa10-12ba-4126-a86e-813a35456174",
+    "price": 0.8425,
+    "size": 10,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_PYTH_USDT",
+    "time_exchange": "2024-04-07T00:59:55.3330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3090303Z",
+    "uuid": "2c4b3824-5fdc-4d78-9e54-59288b26b5a4",
+    "price": 0.8424,
+    "size": 14,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_PYTH_USDT",
+    "time_exchange": "2024-04-07T00:59:55.3330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3090303Z",
+    "uuid": "2c4b3824-5fdc-4d78-9e54-59288b26b5a4",
+    "price": 0.8424,
+    "size": 14,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_ACE_USDT",
+    "time_exchange": "2024-04-07T00:59:55.3040000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3139089Z",
+    "uuid": "b1c6e1cc-1c9c-4d03-b2b6-0dc0748dec7f",
+    "price": 8.648,
+    "size": 0.2711,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_ACE_USDT",
+    "time_exchange": "2024-04-07T00:59:55.3040000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3139089Z",
+    "uuid": "b1c6e1cc-1c9c-4d03-b2b6-0dc0748dec7f",
+    "price": 8.648,
+    "size": 0.2711,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_ACE_USDT",
+    "time_exchange": "2024-04-07T00:59:55.3040000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3139089Z",
+    "uuid": "b602a4fd-2ab5-4190-98fc-4d13ba7eeeaa",
+    "price": 8.648,
+    "size": 0.1038,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_ACE_USDT",
+    "time_exchange": "2024-04-07T00:59:55.3040000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3139089Z",
+    "uuid": "b602a4fd-2ab5-4190-98fc-4d13ba7eeeaa",
+    "price": 8.648,
+    "size": 0.1038,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINANCEFTS_FTS_W_USDT_001225",
+    "time_exchange": "2024-04-07T00:59:56.0160000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3128222Z",
+    "uuid": "e6114f31-7b34-4d6b-9a6e-21ecb132546a",
+    "price": 1.0520000,
+    "size": 138.8,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINANCEFTS_FTS_W_USDT_001225",
+    "time_exchange": "2024-04-07T00:59:56.0160000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3128222Z",
+    "uuid": "e6114f31-7b34-4d6b-9a6e-21ecb132546a",
+    "price": 1.0520000,
+    "size": 138.8,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "OCEANEX_SPOT_VTHO_VET",
+    "time_exchange": "2024-04-07T00:56:37.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3622784Z",
+    "uuid": "8165a561-7264-4dab-87cb-6cf32723950a",
+    "price": 0.0937,
+    "size": 3316.0,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "OCEANEX_SPOT_VTHO_VET",
+    "time_exchange": "2024-04-07T00:56:37.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3622784Z",
+    "uuid": "8165a561-7264-4dab-87cb-6cf32723950a",
+    "price": 0.0937,
+    "size": 3316.0,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "OCEANEX_SPOT_VTHO_VET",
+    "time_exchange": "2024-04-07T00:56:43.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3622784Z",
+    "uuid": "9413a2ad-d196-41a7-9ece-7cd52213a418",
+    "price": 0.0937,
+    "size": 140775.0,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "OCEANEX_SPOT_VTHO_VET",
+    "time_exchange": "2024-04-07T00:56:43.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3622784Z",
+    "uuid": "9413a2ad-d196-41a7-9ece-7cd52213a418",
+    "price": 0.0937,
+    "size": 140775.0,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "OCEANEX_SPOT_VTHO_VET",
+    "time_exchange": "2024-04-07T00:57:46.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3622784Z",
+    "uuid": "cf9ed84b-6aad-4878-81b2-c265a12ba098",
+    "price": 0.0937,
+    "size": 2800.0,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "OCEANEX_SPOT_VTHO_VET",
+    "time_exchange": "2024-04-07T00:57:46.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3622784Z",
+    "uuid": "cf9ed84b-6aad-4878-81b2-c265a12ba098",
+    "price": 0.0937,
+    "size": 2800.0,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "OCEANEX_SPOT_VTHO_VET",
+    "time_exchange": "2024-04-07T00:57:59.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3622784Z",
+    "uuid": "35e1f1b1-8a14-434f-bca7-2888ed3604ee",
+    "price": 0.0937,
+    "size": 2800.0,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "OCEANEX_SPOT_VTHO_VET",
+    "time_exchange": "2024-04-07T00:57:59.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3622784Z",
+    "uuid": "35e1f1b1-8a14-434f-bca7-2888ed3604ee",
+    "price": 0.0937,
+    "size": 2800.0,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIPRO_SPOT_MGG_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2800000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2845940Z",
+    "uuid": "8ca02696-cd47-4ce7-a73d-5a853ffed5ac",
+    "price": 0.001768,
+    "size": 13783.2483,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "HUOBIPRO_SPOT_MGG_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2800000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2845940Z",
+    "uuid": "8ca02696-cd47-4ce7-a73d-5a853ffed5ac",
+    "price": 0.001768,
+    "size": 13783.2483,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "COINBASE_SPOT_AIOZ_USD",
+    "time_exchange": "2024-04-07T00:59:56.3187260Z",
+    "time_coinapi": "2024-04-07T00:59:56.3260284Z",
+    "uuid": "ad3513f3-c7cb-487e-a91f-a73e4214a0dd",
+    "price": 0.8764,
+    "size": 154.4,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "COINBASE_SPOT_AIOZ_USD",
+    "time_exchange": "2024-04-07T00:59:56.3187260Z",
+    "time_coinapi": "2024-04-07T00:59:56.3260284Z",
+    "uuid": "ad3513f3-c7cb-487e-a91f-a73e4214a0dd",
+    "price": 0.8764,
+    "size": 154.4,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "COINBASE_SPOT_NEAR_USD",
+    "time_exchange": "2024-04-07T00:59:56.3567140Z",
+    "time_coinapi": "2024-04-07T00:59:56.3618842Z",
+    "uuid": "88ebee90-8563-4894-bfe9-dc0f5882de07",
+    "price": 7.067,
+    "size": 1.981,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "COINBASE_SPOT_NEAR_USD",
+    "time_exchange": "2024-04-07T00:59:56.3567140Z",
+    "time_coinapi": "2024-04-07T00:59:56.3618842Z",
+    "uuid": "88ebee90-8563-4894-bfe9-dc0f5882de07",
+    "price": 7.067,
+    "size": 1.981,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "HUOBIPRO_SPOT_FIL_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2780000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2835328Z",
+    "uuid": "40b9ed38-f445-494d-9617-2d897c12d383",
+    "price": 8.6361,
+    "size": 9.9067,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "HUOBIPRO_SPOT_FIL_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2780000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2835328Z",
+    "uuid": "40b9ed38-f445-494d-9617-2d897c12d383",
+    "price": 8.6361,
+    "size": 9.9067,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "OKEX_IDX_NMR_USD",
+    "time_exchange": "2024-04-07T00:59:56.1350000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3106927Z",
+    "uuid": "90cab474-d63a-4b7d-839a-e0714ba8b858",
+    "price": 33.56,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_NMR_USD",
+    "time_exchange": "2024-04-07T00:59:56.1350000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3106927Z",
+    "uuid": "90cab474-d63a-4b7d-839a-e0714ba8b858",
+    "price": 33.56,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_GMX_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1350000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3110233Z",
+    "uuid": "869535d6-c33f-4e52-96b0-ec28c5b6a296",
+    "price": 40.51,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_GMX_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1350000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3110233Z",
+    "uuid": "869535d6-c33f-4e52-96b0-ec28c5b6a296",
+    "price": 40.51,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_SPOT_DOGE_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1960000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3082080Z",
+    "uuid": "e3002cff-f2e7-4002-b925-db5c6bee91c4",
+    "price": 0.19221,
+    "size": 4500,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "OKEX_SPOT_DOGE_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1960000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3082080Z",
+    "uuid": "e3002cff-f2e7-4002-b925-db5c6bee91c4",
+    "price": 0.19221,
+    "size": 4500,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_XLM_USDT",
+    "time_exchange": "2024-04-07T00:59:55.2590000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3037331Z",
+    "uuid": "a56d0c64-3ed9-4fed-983b-4b889ff4be1c",
+    "price": 0.12940,
+    "size": 34,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_XLM_USDT",
+    "time_exchange": "2024-04-07T00:59:55.2590000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3037331Z",
+    "uuid": "a56d0c64-3ed9-4fed-983b-4b889ff4be1c",
+    "price": 0.12940,
+    "size": 34,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_TRB_USDT",
+    "time_exchange": "2024-04-07T00:59:55.2480000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3088887Z",
+    "uuid": "09557b99-89dd-413d-90ff-3acfff4aa3c3",
+    "price": 85.707,
+    "size": 0.10,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_TRB_USDT",
+    "time_exchange": "2024-04-07T00:59:55.2480000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3088887Z",
+    "uuid": "09557b99-89dd-413d-90ff-3acfff4aa3c3",
+    "price": 85.707,
+    "size": 0.10,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_TRB_USDT",
+    "time_exchange": "2024-04-07T00:59:55.2480000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3088887Z",
+    "uuid": "3f500992-9f7f-44c8-a4fa-1a2ca1f2b447",
+    "price": 85.707,
+    "size": 0.10,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_TRB_USDT",
+    "time_exchange": "2024-04-07T00:59:55.2480000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3088887Z",
+    "uuid": "3f500992-9f7f-44c8-a4fa-1a2ca1f2b447",
+    "price": 85.707,
+    "size": 0.10,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINANCEFTS_PERP_BEL_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0130000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3099669Z",
+    "uuid": "ea73ac0f-1a73-45ca-84fd-d696665d8e74",
+    "price": 1.95230,
+    "size": 65,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCEFTS_PERP_BEL_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0130000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3099669Z",
+    "uuid": "ea73ac0f-1a73-45ca-84fd-d696665d8e74",
+    "price": 1.95230,
+    "size": 65,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "CRYPTOCOM_SPOT_LOKA_USD",
+    "time_exchange": "2024-04-07T00:59:56.2610000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3560992Z",
+    "uuid": "66a51337-e006-4a74-adab-e4abff810f54",
+    "price": 0.36535,
+    "size": 0.1,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "CRYPTOCOM_SPOT_LOKA_USD",
+    "time_exchange": "2024-04-07T00:59:56.2610000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3560992Z",
+    "uuid": "66a51337-e006-4a74-adab-e4abff810f54",
+    "price": 0.36535,
+    "size": 0.1,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCEFTS_PERP_GMT_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0110000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3080543Z",
+    "uuid": "bc49ce33-3145-49b1-a844-262186617042",
+    "price": 0.30820,
+    "size": 195,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCEFTS_PERP_GMT_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0110000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3080543Z",
+    "uuid": "bc49ce33-3145-49b1-a844-262186617042",
+    "price": 0.30820,
+    "size": 195,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_YGG_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1600000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3036141Z",
+    "uuid": "93dc6f50-3281-4d7f-95e9-c658a1133ddc",
+    "price": 1.28260000,
+    "size": 49.00000000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_YGG_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1600000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3036141Z",
+    "uuid": "93dc6f50-3281-4d7f-95e9-c658a1133ddc",
+    "price": 1.28260000,
+    "size": 49.00000000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_ETH_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1600000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3078554Z",
+    "uuid": "b8d9372c-904a-4612-a59b-aa2154c36106",
+    "price": 3357.72000000,
+    "size": 0.00170000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_ETH_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1600000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3078554Z",
+    "uuid": "b8d9372c-904a-4612-a59b-aa2154c36106",
+    "price": 3357.72000000,
+    "size": 0.00170000,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "OKEX_IDX_SOL_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1320000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3073914Z",
+    "uuid": "d559594f-0c39-44e3-93ad-d2643b192333",
+    "price": 178.07,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_SOL_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1320000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3073914Z",
+    "uuid": "d559594f-0c39-44e3-93ad-d2643b192333",
+    "price": 178.07,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_BETH_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3059320Z",
+    "uuid": "b911ee57-5093-427e-96b2-96589e43115a",
+    "price": 3357.04,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_BETH_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3059320Z",
+    "uuid": "b911ee57-5093-427e-96b2-96589e43115a",
+    "price": 3357.04,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_CRV_BTC",
+    "time_exchange": "2024-04-07T00:59:56.1350000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3061350Z",
+    "uuid": "584306ba-88cc-4aa9-8930-622419b54959",
+    "price": 0.00000904,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_CRV_BTC",
+    "time_exchange": "2024-04-07T00:59:56.1350000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3061350Z",
+    "uuid": "584306ba-88cc-4aa9-8930-622419b54959",
+    "price": 0.00000904,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_KLAY_USD",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3065163Z",
+    "uuid": "072e98a5-5bca-449e-937a-505dea1d73ed",
+    "price": 0.2488,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_KLAY_USD",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3065163Z",
+    "uuid": "072e98a5-5bca-449e-937a-505dea1d73ed",
+    "price": 0.2488,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_ELF_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3058244Z",
+    "uuid": "e8890601-722d-4d8f-8525-0dfeb671e1d9",
+    "price": 0.6105,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_ELF_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3058244Z",
+    "uuid": "e8890601-722d-4d8f-8525-0dfeb671e1d9",
+    "price": 0.6105,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "BITMART_SPOT_BTC_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3562905Z",
+    "uuid": "03822611-cdde-4b50-9ff3-f200b09f4e79",
+    "price": 68997.98,
+    "size": 0.00605,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BITMART_SPOT_BTC_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0000000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3562905Z",
+    "uuid": "03822611-cdde-4b50-9ff3-f200b09f4e79",
+    "price": 68997.98,
+    "size": 0.00605,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "CRYPTOCOM_SPOT_HNT_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2610000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3558686Z",
+    "uuid": "3580b599-a2a5-4498-9b24-0f8f3c4f0034",
+    "price": 6.0825,
+    "size": 0.1,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "CRYPTOCOM_SPOT_HNT_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2610000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3558686Z",
+    "uuid": "3580b599-a2a5-4498-9b24-0f8f3c4f0034",
+    "price": 6.0825,
+    "size": 0.1,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_1000PEPE_USDT",
+    "time_exchange": "2024-04-07T00:59:55.5740000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2980914Z",
+    "uuid": "2122db1a-93d5-4923-a9e2-647f7d4139e3",
+    "price": 0.0068598,
+    "size": 928,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_1000PEPE_USDT",
+    "time_exchange": "2024-04-07T00:59:55.5740000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2980914Z",
+    "uuid": "2122db1a-93d5-4923-a9e2-647f7d4139e3",
+    "price": 0.0068598,
+    "size": 928,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_1000PEPE_USDT",
+    "time_exchange": "2024-04-07T00:59:55.5740000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2980914Z",
+    "uuid": "39319c3f-0c8c-4e70-a3ba-12bb3cef95fa",
+    "price": 0.0068599,
+    "size": 22,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_1000PEPE_USDT",
+    "time_exchange": "2024-04-07T00:59:55.5740000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2980914Z",
+    "uuid": "39319c3f-0c8c-4e70-a3ba-12bb3cef95fa",
+    "price": 0.0068599,
+    "size": 22,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_TOKEN_USDT",
+    "time_exchange": "2024-04-07T00:59:55.6090000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2982405Z",
+    "uuid": "0998b938-ea84-4fcb-a8df-d4f4aad3dcbd",
+    "price": 0.15532,
+    "size": 104.0,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_TOKEN_USDT",
+    "time_exchange": "2024-04-07T00:59:55.6090000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2982405Z",
+    "uuid": "0998b938-ea84-4fcb-a8df-d4f4aad3dcbd",
+    "price": 0.15532,
+    "size": 104.0,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_TOKEN_USDT",
+    "time_exchange": "2024-04-07T00:59:55.6090000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2982405Z",
+    "uuid": "97af0ab6-177f-41f7-85f1-8b220bf9ceff",
+    "price": 0.15531,
+    "size": 8.0,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_TOKEN_USDT",
+    "time_exchange": "2024-04-07T00:59:55.6090000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2982405Z",
+    "uuid": "97af0ab6-177f-41f7-85f1-8b220bf9ceff",
+    "price": 0.15531,
+    "size": 8.0,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_XLM_USDT",
+    "time_exchange": "2024-04-07T00:59:55.2590000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3037331Z",
+    "uuid": "083ddc0a-96b8-4691-a81b-58549ac16aad",
+    "price": 0.12940,
+    "size": 19,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BINGXFTS_PERP_XLM_USDT",
+    "time_exchange": "2024-04-07T00:59:55.2590000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3037331Z",
+    "uuid": "083ddc0a-96b8-4691-a81b-58549ac16aad",
+    "price": 0.12940,
+    "size": 19,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "OKEX_IDX_BNB_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1320000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3031247Z",
+    "uuid": "006360d5-1da6-4fdd-9304-277a93bd11bc",
+    "price": 587.8,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_BNB_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1320000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3031247Z",
+    "uuid": "006360d5-1da6-4fdd-9304-277a93bd11bc",
+    "price": 587.8,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_DOGE_USDC",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3049888Z",
+    "uuid": "bddcbcb2-b45f-4ea7-8f67-00c1258d0195",
+    "price": 0.1923,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_DOGE_USDC",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3049888Z",
+    "uuid": "bddcbcb2-b45f-4ea7-8f67-00c1258d0195",
+    "price": 0.1923,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "BINANCEFTS_PERP_JOE_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0070000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3038357Z",
+    "uuid": "d14c99c0-3051-4cd7-ba85-b2544a19d14c",
+    "price": 0.7911000,
+    "size": 426,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCEFTS_PERP_JOE_USDT",
+    "time_exchange": "2024-04-07T00:59:56.0070000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3038357Z",
+    "uuid": "d14c99c0-3051-4cd7-ba85-b2544a19d14c",
+    "price": 0.7911000,
+    "size": 426,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BITGET_SPOT_VIA_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2540000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2696662Z",
+    "uuid": "017c5f82-6e85-452a-be1b-a8cf344df84f",
+    "price": 1.23,
+    "size": 13.9,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BITGET_SPOT_VIA_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2540000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2696662Z",
+    "uuid": "017c5f82-6e85-452a-be1b-a8cf344df84f",
+    "price": 1.23,
+    "size": 13.9,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_YGG_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1600000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3035482Z",
+    "uuid": "1120c633-6af4-4401-9f7f-8156eb8a0c25",
+    "price": 1.28260000,
+    "size": 107.30000000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BINANCE_SPOT_YGG_USDT",
+    "time_exchange": "2024-04-07T00:59:56.1600000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3035482Z",
+    "uuid": "1120c633-6af4-4401-9f7f-8156eb8a0c25",
+    "price": 1.28260000,
+    "size": 107.30000000,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "CRYPTOCOM_SPOT_ARB_USD",
+    "time_exchange": "2024-04-07T00:59:56.2630000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3531505Z",
+    "uuid": "2995de16-5bd7-4571-ab9c-d4218720ba93",
+    "price": 1.4897,
+    "size": 0.1,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "CRYPTOCOM_SPOT_ARB_USD",
+    "time_exchange": "2024-04-07T00:59:56.2630000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3531505Z",
+    "uuid": "2995de16-5bd7-4571-ab9c-d4218720ba93",
+    "price": 1.4897,
+    "size": 0.1,
+    "taker_side": "SELL"
+  },
+  {
+    "symbol_id": "BITGET_SPOT_VIA_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2540000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2696662Z",
+    "uuid": "80804047-41c7-4884-b9eb-f21b870c4ae4",
+    "price": 1.23,
+    "size": 4.45,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BITGET_SPOT_VIA_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2540000Z",
+    "time_coinapi": "2024-04-07T00:59:56.2696662Z",
+    "uuid": "80804047-41c7-4884-b9eb-f21b870c4ae4",
+    "price": 1.23,
+    "size": 4.45,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "OKEX_IDX_MKR_USD",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3030005Z",
+    "uuid": "b51783af-de30-4698-b199-539f7deff4e9",
+    "price": 3698,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_MKR_USD",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3030005Z",
+    "uuid": "b51783af-de30-4698-b199-539f7deff4e9",
+    "price": 3698,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "BITFINEX_SPOT_BOBA_USD",
+    "time_exchange": "2024-04-07T00:59:56.2860000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3023998Z",
+    "uuid": "ebf83ac9-b1d4-4c94-b09f-b263f102e8dd",
+    "price": 0.49906,
+    "size": 23.34,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "BITFINEX_SPOT_BOBA_USD",
+    "time_exchange": "2024-04-07T00:59:56.2860000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3023998Z",
+    "uuid": "ebf83ac9-b1d4-4c94-b09f-b263f102e8dd",
+    "price": 0.49906,
+    "size": 23.34,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "OKEX_IDX_SAND_USDC",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3023114Z",
+    "uuid": "3089a92a-3f3c-44d0-a362-a380119e225f",
+    "price": 0.6138,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "OKEX_IDX_SAND_USDC",
+    "time_exchange": "2024-04-07T00:59:56.1330000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3023114Z",
+    "uuid": "3089a92a-3f3c-44d0-a362-a380119e225f",
+    "price": 0.6138,
+    "size": 0,
+    "taker_side": "UNKNOWN"
+  },
+  {
+    "symbol_id": "CRYPTOCOM_SPOT_AXL_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2610000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3493440Z",
+    "uuid": "26559d31-8d02-4aad-ba9f-a806b6d8a7dc",
+    "price": 1.49286,
+    "size": 0.1,
+    "taker_side": "BUY"
+  },
+  {
+    "symbol_id": "CRYPTOCOM_SPOT_AXL_USDT",
+    "time_exchange": "2024-04-07T00:59:56.2610000Z",
+    "time_coinapi": "2024-04-07T00:59:56.3493440Z",
+    "uuid": "26559d31-8d02-4aad-ba9f-a806b6d8a7dc",
+    "price": 1.49286,
+    "size": 0.1,
+    "taker_side": "BUY"
+  }
+]
