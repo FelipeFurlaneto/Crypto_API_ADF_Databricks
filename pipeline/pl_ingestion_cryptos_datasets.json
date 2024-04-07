@@ -88,15 +88,29 @@
 									}
 								},
 								"sink": {
-									"type": "JsonSink",
+									"type": "ParquetSink",
 									"storeSettings": {
 										"type": "AzureBlobFSWriteSettings"
 									},
 									"formatSettings": {
-										"type": "JsonWriteSettings"
+										"type": "ParquetWriteSettings"
 									}
 								},
-								"enableStaging": false
+								"enableStaging": false,
+								"enableSkipIncompatibleRow": true,
+								"logSettings": {
+									"enableCopyActivityLog": true,
+									"copyActivityLogSettings": {
+										"logLevel": "Warning",
+										"enableReliableLogging": false
+									},
+									"logLocationSettings": {
+										"linkedServiceName": {
+											"referenceName": "adls",
+											"type": "LinkedServiceReference"
+										}
+									}
+								}
 							},
 							"inputs": [
 								{
@@ -112,11 +126,11 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "sink_json",
+									"referenceName": "sink_parquet",
 									"type": "DatasetReference",
 									"parameters": {
 										"pFile": {
-											"value": "@replace(replace(variables('vFile'),'?ApiKey=8D188D35-6876-4CF8-916C-384B8E586186',''),'/','')",
+											"value": "@concat(replace(replace(variables('vFile'),'?ApiKey=8D188D35-6876-4CF8-916C-384B8E586186',''),'/',''),'.parquet')",
 											"type": "Expression"
 										}
 									}

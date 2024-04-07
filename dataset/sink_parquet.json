@@ -1,0 +1,29 @@
+{
+	"name": "sink_parquet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "adls",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"pFile": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": {
+					"value": "@dataset().pFile",
+					"type": "Expression"
+				},
+				"folderPath": "inbound",
+				"fileSystem": "sinkhere"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}
